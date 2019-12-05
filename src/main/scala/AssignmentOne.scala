@@ -1,6 +1,6 @@
 import scala.collection.immutable.List
 
-object Assignment {
+object AssignmentOne {
   def main(args:Array[String])
   {
     val daysOfTheWeek: List[String] = List("Monday", "Tuesday",
